@@ -1,0 +1,12 @@
+{
+    "watch": [
+        "src"
+    ],
+    "ignore": [
+        "swagger-output.json",
+        "node_modules"
+    ],
+    "execMap": {
+        "ts": "ts-node"
+    }
+}
